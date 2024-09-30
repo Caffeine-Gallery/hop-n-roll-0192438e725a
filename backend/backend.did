@@ -1,0 +1,4 @@
+service : {
+  addHighScore: (int) -> ();
+  getHighScores: () -> (vec int) query;
+}
